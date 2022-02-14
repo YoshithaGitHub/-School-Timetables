@@ -6,7 +6,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/School_Timetables](https://yoshitharathnayake.w3spaces.com/School_Timetables)</i></b>
+Available at :  <b><i>[https://yoshithagithub.github.io/School-Timetables/](https://yoshithagithub.github.io/School-Timetables)</i></b>
 
 #
 # Run Locally
